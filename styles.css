@@ -1,0 +1,23 @@
+.align-center {
+    text-align: center;
+}
+
+.main-img {
+    height: 100vh;
+    width: auto;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+body {
+    background-color: green;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(8, 8, 73);
+    margin-top: -5px;
+}
